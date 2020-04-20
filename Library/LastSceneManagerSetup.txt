@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/mathmatical-surfaces.unity
+- path: Assets/Scenes/build-a-graph.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

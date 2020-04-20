@@ -63,6 +63,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\Scripts\Graph.cs" />
+    <Compile Include="Assets\Scripts\GraphFunction.cs" />
+    <Compile Include="Assets\Scripts\GraphFunctionName.cs" />
     <None Include="Assets\ColoredPoint.shader" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Research/shader-practice/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
